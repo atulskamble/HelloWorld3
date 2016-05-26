@@ -19,6 +19,8 @@ namespace HelloWorld3
             Console.WriteLine("Change from Clone Repo");
 
             Console.WriteLine("modified from HelloWorld3 repo");
+
+            Console.WriteLine("modified from CloneRepo");
         }
     }
 }
