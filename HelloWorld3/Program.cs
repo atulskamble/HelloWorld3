@@ -18,6 +18,8 @@ namespace HelloWorld3
 
             Console.WriteLine("GITHUB 5");
 
+            Console.WriteLine("GITHUB 6");
+
         }
     }
 }
