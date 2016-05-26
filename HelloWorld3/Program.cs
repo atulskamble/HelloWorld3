@@ -16,10 +16,7 @@ namespace HelloWorld3
 
             Console.WriteLine("Github 4");
 
-            Console.WriteLine("GITHUB 5");
-
-            Console.WriteLine("GITHUB 6");
-
+            Console.WriteLine("Changes from Clone repo");
         }
     }
 }
